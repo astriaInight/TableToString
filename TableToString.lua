@@ -1,5 +1,3 @@
-local TableString = {}
-
 local f = string.format
 local rep = string.rep
 local gsub = string.gsub
